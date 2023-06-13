@@ -1,0 +1,500 @@
+.calorie-tracker-journey-child {
+  position: absolute;
+  top: 253px;
+  left: 243px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-linen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 977px;
+  height: 362px;
+}
+.calorie-tracker-journey-item {
+  position: absolute;
+  top: 294px;
+  left: 605px;
+  border-radius: 50%;
+  background-color: var(--ijo-darker);
+  border: 0.5px solid var(--white);
+  box-sizing: border-box;
+  width: 284px;
+  height: 284px;
+}
+.calorie-tracker-journey-inner {
+  position: absolute;
+  top: 181.04px;
+  left: 243px;
+  border-radius: var(--br-3xs);
+  width: 977px;
+  height: 60px;
+}
+.daily2,
+.summary2 {
+  position: absolute;
+  top: 200px;
+  color: var(--black);
+}
+.daily2 {
+  left: 442px;
+  font-weight: 600;
+}
+.summary2 {
+  text-decoration: none;
+  left: 961px;
+  cursor: pointer;
+}
+.home13 {
+  position: absolute;
+  top: 42px;
+  left: 261px;
+  font-family: var(--font-jejugothic);
+  color: var(--ijo-army);
+  text-align: left;
+  display: none;
+}
+.game-iconsfork-knife-spoon17 {
+  position: absolute;
+  height: 105.86%;
+  width: 38.79%;
+  top: 0;
+  right: 61.21%;
+  bottom: -5.86%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.eatfit35 {
+  position: absolute;
+  height: 60.94%;
+  width: 54.55%;
+  top: 18.75%;
+  left: 45.45%;
+  display: inline-block;
+  cursor: pointer;
+}
+.eatfit34 {
+  text-decoration: none;
+  position: absolute;
+  height: 100%;
+  width: 12.64%;
+  top: 0;
+  right: 87.36%;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  color: inherit;
+}
+.navbar-child27 {
+  position: absolute;
+  height: 14.07%;
+  width: 0.77%;
+  top: 42.19%;
+  right: 85.75%;
+  bottom: 43.74%;
+  left: 13.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child105,
+.restaurant25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame-child105 {
+  height: 37.52%;
+  width: 6.54%;
+  top: 29.17%;
+  right: 0;
+  bottom: 33.31%;
+  left: 93.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.restaurant-parent15 {
+  text-decoration: none;
+  position: absolute;
+  top: 20px;
+  left: 526px;
+  width: 153px;
+  height: 24px;
+  cursor: pointer;
+  color: inherit;
+}
+.calorie-tracker17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.frame-child106 {
+  position: absolute;
+  height: 37.52%;
+  width: 4.95%;
+  top: 29.17%;
+  right: 0;
+  bottom: 33.31%;
+  left: 95.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.calorie-tracker-parent15,
+.vector-icon185 {
+  position: absolute;
+  top: 20px;
+  left: 716px;
+  width: 202px;
+  height: 24px;
+  cursor: pointer;
+}
+.vector-icon185 {
+  height: 54.69%;
+  width: 2.68%;
+  top: 23.44%;
+  right: 0;
+  bottom: 21.88%;
+  left: 97.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.navbar-child28 {
+  border: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: var(--color-sandybrown-200);
+  position: absolute;
+  height: 56.25%;
+  width: 20.38%;
+  top: 21.88%;
+  right: 6.51%;
+  bottom: 21.88%;
+  left: 73.1%;
+  border-radius: var(--br-11xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.navbar17 {
+  position: absolute;
+  top: 24px;
+  left: 67px;
+  width: 1305px;
+  height: 64px;
+  mix-blend-mode: normal;
+  text-align: left;
+  color: var(--color-gray-200);
+}
+.frame-child107 {
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: var(--salem);
+  width: 83.01px;
+  height: 18px;
+}
+.calorie-tracker-journey-inner1 {
+  position: absolute;
+  top: 520px;
+  left: 302px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  width: 136px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-child108 {
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: var(--kuning-stabilo);
+  width: 74px;
+  height: 18px;
+}
+.calorie-tracker-journey-inner2 {
+  position: absolute;
+  top: 517px;
+  left: 688px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  width: 136px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-child109 {
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: var(--biru-thomas);
+  width: 87px;
+  height: 18px;
+}
+.calorie-tracker-journey-inner3 {
+  position: absolute;
+  top: 511px;
+  left: 1047px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  width: 136px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.calorie-tracker-journey-child1 {
+  position: absolute;
+  top: 294px;
+  left: 605px;
+  border-radius: 50%;
+  background-color: var(--color-silver);
+  border: 0.5px solid var(--white);
+  box-sizing: border-box;
+  width: 284px;
+  height: 284px;
+}
+.p3 {
+  margin-block-start: 0;
+  margin-block-end: 6px;
+}
+.calories11 {
+  margin: 0;
+}
+.calories10 {
+  position: absolute;
+  top: 361px;
+  left: 686px;
+  font-weight: 600;
+  color: var(--black);
+  display: inline-block;
+  width: 122px;
+}
+.image-1-icon2 {
+  position: absolute;
+  top: 272px;
+  left: 1190px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.apr-20232,
+.carbohydrates2,
+.gr12 {
+  position: absolute;
+  top: 471px;
+  left: 289px;
+  font-weight: 600;
+  display: inline-block;
+  width: 161px;
+}
+.apr-20232,
+.gr12 {
+  top: 548px;
+}
+.apr-20232 {
+  top: 141px;
+  left: 588px;
+  font-size: var(--font-size-11xl);
+  color: var(--black);
+  width: 318px;
+}
+.image-10-icon2,
+.image-9-icon2 {
+  position: absolute;
+  top: 150px;
+  left: 847px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.image-10-icon2 {
+  left: 627px;
+}
+.gr13 {
+  position: absolute;
+  top: 554px;
+  left: 675px;
+  font-weight: 600;
+  display: inline-block;
+  width: 161px;
+}
+.beard-papas11,
+.cals63,
+.cals64,
+.cals65,
+.fats6,
+.gr14,
+.protein12 {
+  position: absolute;
+  top: 477px;
+  left: 705px;
+  font-weight: 600;
+  display: inline-block;
+  width: 102px;
+}
+.beard-papas11,
+.cals63,
+.cals64,
+.cals65,
+.fats6,
+.gr14 {
+  top: 471px;
+  left: 1062px;
+}
+.beard-papas11,
+.cals63,
+.cals64,
+.cals65,
+.gr14 {
+  top: 548px;
+}
+.beard-papas11,
+.cals63,
+.cals64,
+.cals65 {
+  top: 25px;
+  left: 26px;
+  width: 318px;
+}
+.cals63,
+.cals64,
+.cals65 {
+  top: 100px;
+  left: 820px;
+  font-weight: 500;
+  width: 133px;
+}
+.cals64,
+.cals65 {
+  top: 25px;
+  font-weight: 600;
+}
+.cals65 {
+  top: 171px;
+  font-weight: 500;
+  height: 36px;
+}
+.creme-brulee16 {
+  top: 83px;
+  font-size: var(--font-size-3xl);
+}
+.creme-brulee16,
+.serving2,
+.serving3,
+.vanilla-custard-cream7 {
+  position: absolute;
+  left: 26px;
+  display: inline-block;
+  width: 318px;
+}
+.vanilla-custard-cream7 {
+  top: 151px;
+  font-size: var(--font-size-3xl);
+  height: 32px;
+}
+.serving2,
+.serving3 {
+  top: 112px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgreen-100);
+}
+.serving3 {
+  top: 185px;
+  height: 29px;
+}
+.calorie-per-day-item {
+  position: absolute;
+  top: 68.25px;
+  left: -0.75px;
+  border-top: 1.5px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 979.5px;
+  height: 1.5px;
+}
+.image-4-icon1,
+.image-5-icon1 {
+  position: absolute;
+  top: 116px;
+  left: 125px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.image-5-icon1 {
+  top: 189px;
+  height: 18px;
+}
+.calorie-per-day1 {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-linen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 977px;
+  height: 239px;
+  mix-blend-mode: normal;
+}
+.calories-intake-wrapper,
+.calories-intake1 {
+  width: 978px;
+  display: flex;
+  flex-direction: column;
+}
+.calories-intake1 {
+  height: 503px;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-6xl);
+}
+.calories-intake-wrapper {
+  position: absolute;
+  top: 644px;
+  left: 243px;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--ijo-darker);
+}
+.group-child20,
+.group-child21 {
+  position: absolute;
+  border-radius: 50%;
+}
+.group-child20 {
+  top: 0;
+  left: 0;
+  background-color: var(--ijo-army);
+  width: 65px;
+  height: 65px;
+}
+.group-child21 {
+  top: 17px;
+  left: 18px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.ellipse-parent4 {
+  text-decoration: none;
+  position: absolute;
+  top: 914px;
+  left: 1289px;
+  width: 65px;
+  height: 65px;
+}
+.calorie-tracker-journey {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1229px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-500);
+  font-family: var(--font-inter);
+}

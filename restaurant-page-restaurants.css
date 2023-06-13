@@ -1,0 +1,422 @@
+@keyframes shadow-pop-tr {
+  0% {
+    box-shadow: 0 0 rgba(62, 62, 62, 0.18), 0 0 rgba(62, 62, 62, 0.18),
+      0 0 rgba(62, 62, 62, 0.18), 0 0 rgba(62, 62, 62, 0.18),
+      0 0 rgba(62, 62, 62, 0.18), 0 0 rgba(62, 62, 62, 0.18),
+      0 0 rgba(62, 62, 62, 0.18), 0 0 rgba(62, 62, 62, 0.18);
+    transform: translateX(0) translateY(0);
+  }
+  to {
+    box-shadow: 1px -1px rgba(62, 62, 62, 0.18), 2px -2px rgba(62, 62, 62, 0.18),
+      3px -3px rgba(62, 62, 62, 0.18), 4px -4px rgba(62, 62, 62, 0.18),
+      5px -5px rgba(62, 62, 62, 0.18), 6px -6px rgba(62, 62, 62, 0.18),
+      7px -7px rgba(62, 62, 62, 0.18), 8px -8px rgba(62, 62, 62, 0.18);
+    transform: translateX(-8px) translateY(8px);
+  }
+}
+.welcome1 {
+  position: absolute;
+  top: 228px;
+  left: 124px;
+  font-size: var(--font-size-15xl);
+  font-weight: 600;
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+  width: 576px;
+  height: 41px;
+  mix-blend-mode: normal;
+}
+.discover-your-favorite1 {
+  margin: 0;
+}
+.discover-your-favorite-container1 {
+  position: absolute;
+  top: 306px;
+  left: 124px;
+  font-size: var(--font-size-39xl);
+  font-weight: 800;
+  color: var(--ijo-darker);
+  text-align: left;
+  display: inline-block;
+  width: 576px;
+  height: 162px;
+  mix-blend-mode: normal;
+}
+.image-2-icon1 {
+  position: absolute;
+  top: 152px;
+  left: 700px;
+  width: 616px;
+  height: 560px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.filter-button,
+.filter5,
+.vector-icon186 {
+  position: relative;
+  mix-blend-mode: normal;
+}
+.filter-button,
+.vector-icon186 {
+  width: 35px;
+  height: 22px;
+}
+.filter-button {
+  text-decoration: none;
+  position: absolute;
+  top: 505px;
+  left: 124px;
+  border-radius: var(--br-mini);
+  background-color: var(--ijo-army);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 240px;
+  height: 87px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xl) 55px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--gap-sm);
+  cursor: pointer;
+  font-size: var(--font-size-13xl);
+  color: var(--white);
+}
+.vector-icon187 {
+  position: absolute;
+  height: 86.72%;
+  width: 84.38%;
+  top: 6.64%;
+  right: 6.25%;
+  bottom: 6.64%;
+  left: 9.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.game-iconsfork-knife-spoon18 {
+  text-decoration: none;
+  position: absolute;
+  height: 100%;
+  width: 38.79%;
+  top: 0;
+  right: 61.21%;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.eatfit37 {
+  text-decoration: none;
+  position: absolute;
+  height: 60.94%;
+  width: 54.55%;
+  top: 18.75%;
+  left: 45.45%;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  cursor: pointer;
+}
+.eatfit36 {
+  position: absolute;
+  height: 100%;
+  width: 12.64%;
+  top: 0;
+  right: 87.36%;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-11xl);
+}
+.navbar-child29 {
+  position: absolute;
+  height: 14.07%;
+  width: 0.77%;
+  top: 42.19%;
+  right: 85.75%;
+  bottom: 43.74%;
+  left: 13.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child110,
+.restaurant26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame-child110 {
+  height: 37.52%;
+  width: 6.54%;
+  top: 29.17%;
+  right: 0;
+  bottom: 33.31%;
+  left: 93.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.restaurant-parent16 {
+  position: absolute;
+  top: 20px;
+  left: 526px;
+  width: 153px;
+  height: 24px;
+  cursor: pointer;
+}
+.frame-child111 {
+  position: absolute;
+  height: 37.52%;
+  width: 4.95%;
+  top: 29.17%;
+  right: 0;
+  bottom: 33.31%;
+  left: 95.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.calorie-tracker-parent16 {
+  text-decoration: none;
+  position: absolute;
+  top: 20px;
+  left: 716px;
+  width: 202px;
+  height: 24px;
+  cursor: pointer;
+  color: inherit;
+}
+.vector-icon188 {
+  position: absolute;
+  height: 54.69%;
+  width: 2.68%;
+  top: 23.44%;
+  right: 0;
+  bottom: 21.88%;
+  left: 97.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.navbar-child30 {
+  border: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: var(--color-sandybrown-200);
+  position: absolute;
+  height: 56.25%;
+  width: 20.38%;
+  top: 21.88%;
+  right: 6.51%;
+  bottom: 21.88%;
+  left: 73.1%;
+  border-radius: var(--br-11xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.navbar18 {
+  position: absolute;
+  top: 24px;
+  left: 67px;
+  width: 1305px;
+  height: 64px;
+  mix-blend-mode: normal;
+  text-align: left;
+  color: var(--color-gray-200);
+}
+.restaurant27,
+.serpong8 {
+  position: absolute;
+  top: 67.04%;
+  left: 40.73%;
+}
+.restaurant27 {
+  top: 81.11%;
+  left: 36.69%;
+}
+.vector-icon189,
+.vector-icon190 {
+  position: absolute;
+  height: 9.63%;
+  width: 8.47%;
+  top: 66.67%;
+  right: 70.97%;
+  bottom: 23.7%;
+  left: 20.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon190 {
+  height: 9.26%;
+  width: 10.08%;
+  top: 80.74%;
+  right: 69.35%;
+  bottom: 10%;
+}
+.restaurant-kimukatsu-inner {
+  position: absolute;
+  height: 0.37%;
+  width: 80.65%;
+  top: 62.04%;
+  right: 9.88%;
+  bottom: 37.59%;
+  left: 9.48%;
+  border-top: 1px solid var(--color-darkgreen-200);
+  box-sizing: border-box;
+}
+.download-removebg-preview-1-icon2 {
+  position: absolute;
+  height: 55.19%;
+  width: 87.1%;
+  top: 6.67%;
+  right: 6.45%;
+  bottom: 38.15%;
+  left: 6.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.restaurant-kimukatsu2 {
+  position: absolute;
+  top: 792px;
+  left: 124px;
+  border-radius: var(--br-3xs);
+  background-color: var(--krem);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+  width: 248px;
+  height: 270px;
+  mix-blend-mode: normal;
+}
+.restauran-beard-papa2:hover,
+.restauran-beard-papa3:hover,
+.restaurant-kimukatsu2:hover,
+.restaurant-kimukatsu3:hover,
+.restaurant-marugame2:hover,
+.restaurant-marugame3:hover,
+.restaurant-pepper2:hover,
+.restaurant-pepper3:hover {
+  animation: 1s ease 0s 1 normal none shadow-pop-tr;
+  opacity: 1;
+}
+.logo-1-icon5 {
+  position: absolute;
+  height: 61.85%;
+  width: 51.61%;
+  top: 0;
+  right: 24.19%;
+  bottom: 38.15%;
+  left: 24.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.restauran-beard-papa2 {
+  text-decoration: none;
+  position: absolute;
+  top: 792px;
+  left: 439px;
+  border-radius: var(--br-3xs);
+  background-color: var(--krem);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+  width: 248px;
+  height: 270px;
+  mix-blend-mode: normal;
+  cursor: pointer;
+  color: inherit;
+}
+.unnamed-removebg-preview-1-icon2 {
+  position: absolute;
+  height: 61.85%;
+  width: 77.02%;
+  top: 0.37%;
+  right: 11.69%;
+  bottom: 37.78%;
+  left: 11.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.restaurant-marugame2 {
+  position: absolute;
+  top: 792px;
+  left: 754px;
+  border-radius: var(--br-3xs);
+  background-color: var(--krem);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+  width: 248px;
+  height: 270px;
+  mix-blend-mode: normal;
+}
+.pepper-lunch-logo-1-icon2 {
+  position: absolute;
+  height: 41.48%;
+  width: 53.63%;
+  top: 10.74%;
+  right: 23.39%;
+  bottom: 47.78%;
+  left: 22.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.restaurant-pepper2 {
+  position: absolute;
+  top: 793px;
+  left: 1069px;
+  border-radius: var(--br-3xs);
+  background-color: var(--krem);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+  width: 248px;
+  height: 270px;
+  mix-blend-mode: normal;
+}
+.restaurant-kimukatsu3 {
+  left: 124px;
+}
+.restauran-beard-papa3,
+.restaurant-kimukatsu3,
+.restaurant-marugame3,
+.restaurant-pepper3 {
+  position: absolute;
+  top: 1144px;
+  border-radius: var(--br-3xs);
+  background-color: var(--krem);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+  width: 248px;
+  height: 270px;
+  mix-blend-mode: normal;
+}
+.restauran-beard-papa3 {
+  text-decoration: none;
+  left: 439px;
+  cursor: pointer;
+  color: inherit;
+}
+.restaurant-marugame3,
+.restaurant-pepper3 {
+  left: 754px;
+}
+.restaurant-pepper3 {
+  top: 1145px;
+  left: 1069px;
+}
+.restaurant-page-restaurants {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1583px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--black);
+  font-family: var(--font-inter);
+}

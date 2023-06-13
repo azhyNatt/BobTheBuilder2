@@ -1,0 +1,674 @@
+.home {
+  position: absolute;
+  top: 42px;
+  left: 261px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jejugothic);
+  color: var(--ijo-army);
+  display: none;
+}
+.game-iconsfork-knife-spoon1 {
+  position: absolute;
+  height: 105.86%;
+  width: 38.79%;
+  top: 0;
+  right: 61.21%;
+  bottom: -5.86%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.eatfit3 {
+  position: absolute;
+  height: 60.94%;
+  width: 54.55%;
+  top: 18.75%;
+  left: 45.45%;
+  display: inline-block;
+  cursor: pointer;
+}
+.eatfit2 {
+  text-decoration: none;
+  position: absolute;
+  height: 100%;
+  width: 12.64%;
+  top: 0;
+  right: 87.36%;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  color: inherit;
+}
+.navbar-item {
+  position: absolute;
+  height: 14.07%;
+  width: 0.77%;
+  top: 42.19%;
+  right: 85.75%;
+  bottom: 43.74%;
+  left: 13.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.restaurant1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.polygon-icon {
+  position: absolute;
+  height: 37.52%;
+  width: 6.54%;
+  top: 29.17%;
+  right: 0;
+  bottom: 33.31%;
+  left: 93.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.restaurant-group {
+  text-decoration: none;
+  position: absolute;
+  top: 20px;
+  left: 526px;
+  width: 153px;
+  height: 24px;
+  cursor: pointer;
+  color: inherit;
+}
+.frame-child10 {
+  position: absolute;
+  height: 37.52%;
+  width: 4.95%;
+  top: 29.17%;
+  right: 0;
+  bottom: 33.31%;
+  left: 95.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.calorie-tracker-group {
+  text-decoration: none;
+  position: absolute;
+  top: 20px;
+  left: 716px;
+  width: 202px;
+  height: 24px;
+  cursor: pointer;
+  color: inherit;
+}
+.vector-icon21 {
+  position: absolute;
+  height: 54.69%;
+  width: 2.68%;
+  top: 23.44%;
+  right: 0;
+  bottom: 21.88%;
+  left: 97.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.navbar-inner,
+.navbar1 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+}
+.navbar-inner {
+  border: 0;
+  font-family: var(--font-inter);
+  background-color: var(--color-sandybrown-200);
+  height: 56.25%;
+  width: 20.38%;
+  top: 21.88%;
+  right: 6.51%;
+  bottom: 21.88%;
+  left: 73.1%;
+  border-radius: var(--br-11xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.navbar1 {
+  top: 24px;
+  left: calc(50% - 653px);
+  width: 1305px;
+  height: 64px;
+  mix-blend-mode: normal;
+  color: var(--color-gray-200);
+}
+.b,
+.b1,
+.b2,
+.carbs,
+.fats,
+.protein {
+  position: absolute;
+  top: 40px;
+  left: calc(50% + 29px);
+}
+.b,
+.b1,
+.b2,
+.fats,
+.protein {
+  top: 78px;
+}
+.b,
+.b1,
+.b2,
+.protein {
+  top: 114px;
+}
+.b,
+.b1,
+.b2 {
+  top: 33px;
+  left: calc(50% + 114px);
+  font-size: var(--font-size-9xl);
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+}
+.b1,
+.b2 {
+  top: 73px;
+  left: calc(50% + 90px);
+}
+.b2 {
+  top: 110px;
+  left: calc(50% + 123px);
+}
+.gr,
+.gr1,
+.gr2 {
+  position: absolute;
+  top: 51px;
+  left: calc(50% + 151px);
+  font-size: var(--font-size-2xs);
+}
+.gr1,
+.gr2 {
+  top: 91px;
+  left: calc(50% + 123px);
+}
+.gr2 {
+  top: 127px;
+  left: calc(50% + 144px);
+}
+.slice-3-31,
+.slice-53-552 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 80px);
+  width: 15.6px;
+  height: 79.97px;
+}
+.slice-53-552 {
+  top: 13px;
+  left: calc(50% - 118px);
+  width: 119.97px;
+  height: 158.41px;
+}
+.b3,
+.b4,
+.b5,
+.slice-40-417 {
+  position: absolute;
+  top: 11px;
+  left: calc(50% - 163px);
+  width: 79.98px;
+  height: 149.22px;
+}
+.b3,
+.b4,
+.b5 {
+  top: 75px;
+  left: calc(50% - 153px);
+  display: inline-block;
+  width: 59px;
+  height: 23px;
+}
+.b4,
+.b5 {
+  top: 99px;
+  left: calc(50% - 72px);
+  width: 52px;
+  height: 24px;
+}
+.b5 {
+  top: 25.97px;
+  left: calc(50% - 90.04px);
+  width: 39px;
+  height: 23px;
+}
+.carbs1,
+.fats1,
+.protein1 {
+  position: absolute;
+  top: 122.03px;
+  left: calc(50% - 69.96px);
+  font-size: var(--font-size-xs);
+}
+.fats1,
+.protein1 {
+  top: 99px;
+  left: calc(50% - 141px);
+}
+.protein1 {
+  top: 50px;
+  left: calc(50% - 97px);
+}
+.pie-chart {
+  position: absolute;
+  top: 451px;
+  left: 156px;
+  width: 326px;
+  height: 171.41px;
+  display: none;
+  font-size: var(--font-size-5xl);
+  color: var(--white);
+}
+.more-menus {
+  position: absolute;
+  top: 776px;
+  left: calc(50% - 597px);
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  color: var(--ijo-darker);
+}
+.content-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 472px);
+  border-radius: var(--br-21xl);
+  background-color: var(--krem);
+  box-shadow: 2px 2px 10px 5px rgba(0, 0, 0, 0.25);
+  border: 10px solid var(--white);
+  box-sizing: border-box;
+  width: 678px;
+  height: 525px;
+}
+.vanilla-custard-cream {
+  position: absolute;
+  top: 35px;
+  left: calc(50% - 448px);
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  display: inline-block;
+  width: 537px;
+  height: 56px;
+}
+.beard-papas1,
+.ingredients,
+.nutritional-values {
+  position: absolute;
+  left: calc(50% - 432px);
+  display: inline-block;
+}
+.beard-papas1 {
+  top: 101px;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+  width: 126px;
+  height: 22px;
+}
+.ingredients,
+.nutritional-values {
+  top: 215px;
+  width: 207px;
+  height: 27px;
+}
+.nutritional-values {
+  top: 295px;
+  width: 299px;
+  height: 33px;
+}
+.this-classic-favorite {
+  margin: 0;
+}
+.this-classic-favorite-container,
+.vanilla-beans-rich {
+  position: absolute;
+  top: 134px;
+  left: 59px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--black);
+}
+.vanilla-beans-rich {
+  top: 252px;
+}
+.b6 {
+  position: absolute;
+  top: 1px;
+  left: calc(50% - 173.5px);
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 80px;
+  height: 33px;
+}
+.calories {
+  top: 44px;
+  left: calc(50% - 165.5px);
+  font-weight: 600;
+  width: 64px;
+  height: 16px;
+}
+.b7,
+.calories,
+.carbs2 {
+  position: absolute;
+  display: inline-block;
+}
+.b7 {
+  top: 2px;
+  left: calc(50% - 72.5px);
+  font-size: var(--font-size-21xl);
+  width: 57px;
+  height: 33px;
+}
+.carbs2 {
+  top: 45px;
+  left: calc(50% - 66.5px);
+  font-weight: 600;
+  width: 49px;
+  height: 16px;
+}
+.b8 {
+  top: 2px;
+  left: calc(50% + 9.5px);
+  font-size: var(--font-size-21xl);
+  width: 51px;
+  height: 33px;
+}
+.b8,
+.b9,
+.fat {
+  position: absolute;
+  display: inline-block;
+}
+.fat {
+  top: 42px;
+  left: calc(50% + 27.5px);
+  font-weight: 600;
+  width: 27px;
+  height: 16px;
+}
+.b9 {
+  top: 0;
+  left: calc(50% + 93.5px);
+  font-size: var(--font-size-21xl);
+  width: 80px;
+  height: 33px;
+}
+.g,
+.g1,
+.g2,
+.kcal,
+.protein2 {
+  position: absolute;
+  font-weight: 600;
+}
+.protein2 {
+  top: 44px;
+  left: calc(50% + 84.5px);
+  display: inline-block;
+  width: 57px;
+  height: 16px;
+}
+.g,
+.g1,
+.g2,
+.kcal {
+  top: 61px;
+  left: 24px;
+  color: var(--ijo-army);
+}
+.g,
+.g1,
+.g2 {
+  left: 125px;
+}
+.g1,
+.g2 {
+  left: 204px;
+}
+.g2 {
+  left: 282px;
+}
+.nutritional-value {
+  position: absolute;
+  top: 339px;
+  left: 59px;
+  width: 347px;
+  height: 79px;
+  font-size: var(--font-size-mini);
+  color: var(--black);
+}
+.vanilla-puff-img {
+  position: absolute;
+  top: 73px;
+  left: 387px;
+  width: 557px;
+  height: 557px;
+  object-fit: cover;
+}
+.content {
+  position: absolute;
+  top: 189px;
+  left: 342px;
+  width: 944px;
+  height: 630px;
+  font-size: var(--font-size-5xl);
+  color: var(--ijo-darker);
+}
+.confirm1 {
+  position: relative;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--white);
+  text-align: left;
+  width: 56px;
+  height: 12px;
+  flex-shrink: 0;
+}
+.confirm-wrapper,
+.input-servings-child {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.confirm-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) 4.307581901550293px;
+  background-color: var(--ijo-army);
+  top: 464px;
+  left: 260px;
+  border-radius: var(--br-3xs);
+  width: 70px;
+  height: 28px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.input-servings-child {
+  top: 649px;
+  left: 494px;
+  background-color: var(--white);
+  width: 100px;
+  height: 35px;
+}
+.input-serving {
+  position: absolute;
+  top: 657px;
+  left: 382px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.div10 {
+  position: absolute;
+  top: 653px;
+  left: calc(50% - 184px);
+  font-size: 23px;
+  font-weight: 500;
+  display: inline-block;
+  width: 27px;
+  height: 33px;
+  cursor: pointer;
+}
+.menu-oreo-cookie-child {
+  position: absolute;
+  height: 70.06%;
+  width: 100%;
+  top: 29.94%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--krem);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+  mix-blend-mode: darken;
+}
+.oreo-cookie-crumble-container5 {
+  position: absolute;
+  top: 52.54%;
+  left: 22.58%;
+  font-size: var(--font-size-xl);
+}
+.cals14 {
+  position: absolute;
+  top: 75.42%;
+  left: 37.9%;
+}
+.menu-oreo-cookie-item {
+  position: absolute;
+  height: 0.28%;
+  width: 80.65%;
+  top: 70.48%;
+  right: 9.88%;
+  bottom: 29.24%;
+  left: 9.48%;
+  border-top: 1px solid var(--ijo-darker);
+  box-sizing: border-box;
+}
+.image-3-icon17 {
+  position: absolute;
+  height: 57.91%;
+  width: 82.66%;
+  top: 0;
+  right: 8.47%;
+  bottom: 42.09%;
+  left: 8.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.detail {
+  position: absolute;
+  height: 63.33%;
+  width: 80.45%;
+  top: 16.67%;
+  left: 9.77%;
+  font-weight: 600;
+  display: inline-block;
+}
+.detail-wrapper {
+  text-decoration: none;
+  position: absolute;
+  height: 8.47%;
+  width: 53.63%;
+  top: 85.03%;
+  right: 23.39%;
+  bottom: 6.5%;
+  left: 22.98%;
+  border-radius: var(--br-mini);
+  background-color: var(--ijo-army);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  color: var(--white);
+}
+.menu-oreo-cookie {
+  position: absolute;
+  top: 843px;
+  left: 123px;
+  width: 248px;
+  height: 354px;
+  mix-blend-mode: normal;
+  text-align: center;
+}
+.smores-eclair3 {
+  position: absolute;
+  top: 59.32%;
+  left: 23.39%;
+  font-size: var(--font-size-xl);
+}
+.image-3-icon18 {
+  position: absolute;
+  height: 52.54%;
+  width: 75%;
+  top: 0;
+  right: 12.3%;
+  bottom: 47.46%;
+  left: 12.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.menu-smores-eclair {
+  position: absolute;
+  top: 843px;
+  left: 438px;
+  width: 248px;
+  height: 354px;
+  mix-blend-mode: normal;
+  text-align: center;
+}
+.vanilla-custard-cream-container3 {
+  position: absolute;
+  top: 52.54%;
+  left: 21.37%;
+  font-size: var(--font-size-xl);
+}
+.menu-vanilla-custard {
+  position: absolute;
+  top: 843px;
+  left: 753px;
+  width: 248px;
+  height: 354px;
+  mix-blend-mode: normal;
+  text-align: center;
+}
+.creme-brulee3 {
+  position: absolute;
+  top: 59.32%;
+  left: 24.19%;
+  font-size: var(--font-size-xl);
+}
+.menu-creme-brulee {
+  position: absolute;
+  top: 843px;
+  left: 1068px;
+  width: 248px;
+  height: 354px;
+  mix-blend-mode: normal;
+  text-align: center;
+}
+.input-servings {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1229px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,26 @@
+.personalizetest-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f8e4ba;
+  width: 240px;
+  height: 1024px;
+}
+.home21 {
+  position: absolute;
+  top: 42px;
+  left: 261px;
+  display: none;
+}
+.personalizetest-1 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--ijo-army);
+  font-family: var(--font-jejugothic);
+}

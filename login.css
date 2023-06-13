@@ -1,0 +1,427 @@
+.login-child {
+  top: 230px;
+  left: 209px;
+  border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+  background-color: var(--krem);
+  width: 521px;
+  height: 161px;
+}
+.login-child,
+.login-inner,
+.login-item {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.login-item {
+  text-decoration: none;
+  top: 230px;
+  left: 730px;
+  border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+  background-color: var(--coklat);
+  width: 521px;
+  height: 161px;
+  cursor: pointer;
+}
+.login-inner {
+  top: 319px;
+  left: 209px;
+  border-radius: var(--br-11xl);
+  background-color: var(--krem);
+  width: 1042px;
+  height: 583px;
+}
+.home11 {
+  position: absolute;
+  top: 42px;
+  left: 261px;
+  font-family: var(--font-jejugothic);
+  color: var(--ijo-army);
+  display: none;
+}
+.vector-icon179 {
+  position: absolute;
+  height: 86.72%;
+  width: 84.38%;
+  top: 6.64%;
+  right: 6.25%;
+  bottom: 6.64%;
+  left: 9.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.game-iconsfork-knife-spoon15 {
+  text-decoration: none;
+  position: absolute;
+  height: 100%;
+  width: 38.79%;
+  top: 0;
+  right: 61.21%;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.eatfit30,
+.eatfit31 {
+  text-decoration: none;
+  position: absolute;
+  color: inherit;
+}
+.eatfit31 {
+  height: 60.94%;
+  width: 54.55%;
+  top: 18.75%;
+  left: 45.45%;
+  font-weight: 700;
+  display: inline-block;
+  cursor: pointer;
+}
+.eatfit30 {
+  height: 100%;
+  width: 12.64%;
+  top: 0;
+  right: 87.36%;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-11xl);
+}
+.navbar-child23 {
+  position: absolute;
+  height: 14.07%;
+  width: 0.77%;
+  top: 42.19%;
+  right: 85.75%;
+  bottom: 43.74%;
+  left: 13.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child94,
+.restaurant23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame-child94 {
+  height: 37.52%;
+  width: 6.54%;
+  top: 29.17%;
+  right: 0;
+  bottom: 33.31%;
+  left: 93.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.restaurant-parent13 {
+  text-decoration: none;
+  position: absolute;
+  top: 20px;
+  left: 526px;
+  width: 153px;
+  height: 24px;
+  cursor: pointer;
+  color: inherit;
+}
+.frame-child95 {
+  position: absolute;
+  height: 37.52%;
+  width: 4.95%;
+  top: 29.17%;
+  right: 0;
+  bottom: 33.31%;
+  left: 95.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.calorie-tracker-parent13 {
+  text-decoration: none;
+  position: absolute;
+  top: 20px;
+  left: 716px;
+  width: 202px;
+  height: 24px;
+  cursor: pointer;
+  color: inherit;
+}
+.vector-icon180 {
+  position: absolute;
+  height: 54.69%;
+  width: 2.68%;
+  top: 23.44%;
+  right: 0;
+  bottom: 21.88%;
+  left: 97.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.navbar-child24 {
+  border: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: var(--color-sandybrown-200);
+  position: absolute;
+  height: 56.25%;
+  width: 20.38%;
+  top: 21.88%;
+  right: 6.51%;
+  bottom: 21.88%;
+  left: 73.1%;
+  border-radius: var(--br-11xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.login3,
+.navbar15,
+.register3 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.navbar15 {
+  top: 24px;
+  left: 67px;
+  width: 1305px;
+  height: 64px;
+  color: var(--color-gray-200);
+}
+.login3,
+.register3 {
+  top: 261px;
+  left: 259px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  text-align: center;
+}
+.register3 {
+  left: 781px;
+  cursor: pointer;
+}
+.frame-child96,
+.frame-child97 {
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 487px;
+  height: 99px;
+}
+.frame-child96 {
+  position: absolute;
+  top: 0;
+  mix-blend-mode: normal;
+}
+.frame-child97 {
+  top: 140px;
+}
+.confirm4,
+.frame-child97,
+.frame-child98 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.frame-child98 {
+  top: 280px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--ijo-army);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 487px;
+  height: 75px;
+}
+.confirm4 {
+  top: 298px;
+  left: 162px;
+  font-weight: 600;
+  color: var(--color-floralwhite);
+  display: inline-block;
+  width: 164px;
+  height: 39px;
+}
+.frame-child99 {
+  position: absolute;
+  height: 17.4%;
+  width: 92.4%;
+  top: 37.75%;
+  right: 3.7%;
+  bottom: 44.85%;
+  left: 3.9%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-floralwhite);
+}
+.password1 {
+  position: absolute;
+  top: 42.16%;
+  left: 10.88%;
+  font-weight: 500;
+}
+.frame-child100 {
+  position: absolute;
+  height: 17.4%;
+  width: 92.4%;
+  top: 3.43%;
+  right: 3.7%;
+  bottom: 79.17%;
+  left: 3.9%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-floralwhite);
+}
+.forget-password,
+.username4 {
+  position: absolute;
+  top: 7.6%;
+  left: 10.88%;
+  font-weight: 500;
+}
+.forget-password {
+  height: 8.09%;
+  width: 28.34%;
+  top: 91.91%;
+  left: 35.93%;
+  font-size: var(--font-size-base);
+  color: var(--black);
+  text-align: left;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.vector-parent2 {
+  position: absolute;
+  top: 407px;
+  left: 486px;
+  width: 487px;
+  height: 408px;
+  display: none;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray-300);
+}
+.frame-child101 {
+  top: 215px;
+  left: 3px;
+  width: 396px;
+  height: 67px;
+  display: none;
+}
+.frame-child101,
+.frame-child102,
+.group-child19 {
+  position: absolute;
+  border-radius: var(--br-3xs);
+}
+.frame-child102 {
+  top: 94px;
+  left: 3px;
+  width: 396px;
+  height: 67px;
+  display: none;
+}
+.group-child19 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--ijo-army);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.login4 {
+  position: absolute;
+  top: 8px;
+  left: 153px;
+  font-size: var(--font-size-7xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--white);
+  text-align: center;
+  display: inline-block;
+  width: 81px;
+  height: 32px;
+}
+.group-button {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 52.17%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 47.83%;
+  left: 0;
+}
+.forgot-password {
+  position: absolute;
+  height: 27.17%;
+  width: 50.9%;
+  top: 72.83%;
+  left: 23.51%;
+  display: inline-block;
+  cursor: pointer;
+}
+.vector-parent3 {
+  position: absolute;
+  top: 691px;
+  left: 536px;
+  width: 387px;
+  height: 92px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--black);
+}
+.username6 {
+  position: absolute;
+  height: 29.47%;
+  width: 36.95%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.username-item {
+  border: 0;
+  background-color: var(--white);
+  position: absolute;
+  height: 50.53%;
+  width: 100%;
+  top: 49.47%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.username5 {
+  position: absolute;
+  top: 439px;
+  left: 536px;
+  width: 387px;
+  height: 95px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-100);
+}
+.login2,
+.pass,
+.username5 {
+  mix-blend-mode: normal;
+}
+.pass {
+  position: absolute;
+  top: 558px;
+  left: 536px;
+  width: 387px;
+  height: 95px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-100);
+}
+.login2 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--ijo-darker);
+  font-family: var(--font-inter);
+}

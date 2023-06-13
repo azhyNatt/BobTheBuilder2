@@ -1,0 +1,1247 @@
+.home3 {
+  position: absolute;
+  top: 42px;
+  left: 261px;
+  font-family: var(--font-jejugothic);
+  color: var(--ijo-army);
+  display: none;
+}
+.game-iconsfork-knife-spoon5 {
+  position: absolute;
+  height: 105.86%;
+  width: 38.79%;
+  top: 0;
+  right: 61.21%;
+  bottom: -5.86%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.eatfit11 {
+  position: absolute;
+  height: 60.94%;
+  width: 54.55%;
+  top: 18.75%;
+  left: 45.45%;
+  display: inline-block;
+  cursor: pointer;
+}
+.eatfit10 {
+  position: absolute;
+  height: 100%;
+  width: 12.64%;
+  top: 0;
+  right: 87.36%;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-11xl);
+}
+.navbar-child5 {
+  position: absolute;
+  height: 14.07%;
+  width: 0.77%;
+  top: 42.19%;
+  right: 85.75%;
+  bottom: 43.74%;
+  left: 13.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child31,
+.restaurant5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame-child31 {
+  height: 37.52%;
+  width: 6.54%;
+  top: 29.17%;
+  right: 0;
+  bottom: 33.31%;
+  left: 93.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.restaurant-parent3 {
+  position: absolute;
+  top: 20px;
+  left: 526px;
+  width: 153px;
+  height: 24px;
+  cursor: pointer;
+}
+.calorie-tracker5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.frame-child32 {
+  position: absolute;
+  height: 37.52%;
+  width: 4.95%;
+  top: 29.17%;
+  right: 0;
+  bottom: 33.31%;
+  left: 95.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.calorie-tracker-parent3,
+.vector-icon61 {
+  position: absolute;
+  top: 20px;
+  left: 716px;
+  width: 202px;
+  height: 24px;
+  cursor: pointer;
+}
+.vector-icon61 {
+  height: 54.69%;
+  width: 2.68%;
+  top: 23.44%;
+  right: 0;
+  bottom: 21.88%;
+  left: 97.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search2 {
+  position: absolute;
+  top: 16.67%;
+  left: 6.39%;
+}
+.material-symbolssearch-rounde-icon4 {
+  position: absolute;
+  height: 66.67%;
+  width: 9.02%;
+  top: 16.67%;
+  right: 4.51%;
+  bottom: 16.67%;
+  left: 86.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search-container {
+  position: absolute;
+  height: 56.25%;
+  width: 20.38%;
+  top: 21.88%;
+  right: 6.51%;
+  bottom: 21.88%;
+  left: 73.1%;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-sandybrown-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  color: var(--white);
+}
+.navbar5 {
+  position: absolute;
+  top: 24px;
+  left: 67px;
+  width: 1305px;
+  height: 64px;
+  mix-blend-mode: normal;
+  color: var(--color-gray-200);
+}
+.calorie-tracker-statistics-k-child,
+.calorie-tracker-statistics-k-inner,
+.calorie-tracker-statistics-k-item {
+  position: absolute;
+  top: 153px;
+  left: 58px;
+  border-radius: var(--br-11xl);
+  background-color: var(--white);
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  width: 720px;
+  height: 464px;
+}
+.calorie-tracker-statistics-k-inner,
+.calorie-tracker-statistics-k-item {
+  top: 644px;
+  height: 317px;
+}
+.calorie-tracker-statistics-k-inner {
+  top: 641px;
+  left: 803px;
+  width: 578px;
+}
+.calorie-tracker-statistics-k-child1 {
+  position: absolute;
+  top: 856px;
+  left: 829px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  width: 356px;
+  height: 18px;
+}
+.fat2 {
+  position: absolute;
+  top: 840px;
+  left: 829px;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  display: inline-block;
+  width: 356px;
+  height: 14px;
+}
+.calorie-tracker-statistics-k-child2 {
+  position: absolute;
+  top: 811px;
+  left: 829px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  width: 356px;
+  height: 18px;
+}
+.proteins {
+  position: absolute;
+  top: 795px;
+  left: 829px;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  display: inline-block;
+  width: 356px;
+  height: 14px;
+}
+.calorie-tracker-statistics-k-inner1,
+.frame-child33 {
+  border-radius: var(--br-mini);
+  background-color: var(--color-lightgray);
+}
+.frame-child33 {
+  position: relative;
+  width: 139.7px;
+  height: 18px;
+}
+.calorie-tracker-statistics-k-inner1 {
+  position: absolute;
+  top: 901px;
+  left: 829px;
+  width: 356px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.calories2,
+.carbs4 {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+  width: 356px;
+}
+.carbs4 {
+  top: 885px;
+  left: 829px;
+  font-size: var(--font-size-2xs);
+  height: 14px;
+}
+.calories2 {
+  top: 668px;
+  left: calc(50% + 109px);
+  height: 34px;
+}
+.daily-average-0,
+.set-your-goal {
+  position: absolute;
+  top: 741px;
+  display: inline-block;
+}
+.daily-average-0 {
+  left: calc(50% + 109px);
+  font-weight: 600;
+  width: 356px;
+  height: 34px;
+}
+.set-your-goal {
+  left: calc(50% + 404px);
+  width: 132px;
+  height: 27px;
+}
+.set-your-goal,
+.span {
+  font-weight: 600;
+}
+.span1 {
+  font-size: var(--font-size-lgi);
+}
+.div21 {
+  position: absolute;
+  top: 702px;
+  left: calc(50% + 109px);
+  display: inline-block;
+  width: 356px;
+  height: 34px;
+  font-size: var(--font-size-6xl);
+}
+.calorie-tracker-statistics-k-child3 {
+  position: absolute;
+  top: 730px;
+  left: 104px;
+  background-color: var(--color-gray-400);
+  width: 19px;
+  height: 19px;
+}
+.tracking-history {
+  position: absolute;
+  top: 183px;
+  left: 89px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+}
+.june {
+  position: relative;
+  display: inline-block;
+  width: 82px;
+  flex-shrink: 0;
+}
+.vector-icon62 {
+  position: relative;
+  width: 20px;
+  height: 11px;
+}
+.june-parent,
+.week-parent {
+  position: absolute;
+  top: 234px;
+  left: 603px;
+  border-radius: var(--br-11xl);
+  background-color: var(--white);
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  width: 143px;
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xs) var(--padding-xl);
+  align-items: center;
+  justify-content: flex-end;
+}
+.week-parent {
+  top: 692px;
+}
+.sun {
+  position: absolute;
+  top: 555px;
+  left: 198px;
+}
+.fri,
+.mon,
+.sat,
+.thu,
+.tue,
+.wed {
+  position: absolute;
+  top: 555px;
+  left: 282px;
+}
+.fri,
+.sat,
+.thu,
+.tue,
+.wed {
+  left: 367px;
+}
+.fri,
+.sat,
+.thu,
+.wed {
+  left: 449px;
+}
+.fri,
+.sat,
+.thu {
+  left: 528px;
+}
+.fri,
+.sat {
+  left: 618px;
+}
+.sat {
+  left: 698px;
+}
+.calorie-tracker-statistics-k-child4 {
+  position: absolute;
+  top: 378px;
+  left: 89px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  width: 79px;
+  height: 18px;
+}
+.cal {
+  position: absolute;
+  top: 362px;
+  left: 89px;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  color: var(--kuning-stabilo);
+  display: inline-block;
+  width: 79px;
+  height: 14px;
+}
+.calorie-tracker-statistics-k-child5 {
+  position: absolute;
+  top: 333px;
+  left: 89px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  width: 79px;
+  height: 18px;
+}
+.cal1,
+.carbs5 {
+  position: absolute;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  display: inline-block;
+  height: 14px;
+}
+.cal1 {
+  top: 317px;
+  left: 89px;
+  color: var(--biru-thomas);
+  width: 79px;
+}
+.carbs5 {
+  top: 732px;
+  left: 130px;
+  width: 46px;
+}
+.calorie-tracker-statistics-k-child6 {
+  position: absolute;
+  top: 730px;
+  left: 183px;
+  background-color: var(--color-darkseagreen-100);
+  width: 19px;
+  height: 19px;
+}
+.fat3 {
+  position: absolute;
+  top: 732px;
+  left: 209px;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  display: inline-block;
+  width: 31px;
+  height: 14px;
+}
+.calorie-tracker-statistics-k-child7 {
+  position: absolute;
+  top: 730px;
+  left: 247px;
+  background-color: var(--color-sandybrown-100);
+  width: 19px;
+  height: 19px;
+}
+.protein4 {
+  position: absolute;
+  top: 732px;
+  left: 273px;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  display: inline-block;
+  width: 58px;
+  height: 14px;
+}
+.calorie-tracker-statistics-k-child8 {
+  position: absolute;
+  top: 423px;
+  left: 89px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  width: 79px;
+  height: 18px;
+}
+.cal2 {
+  position: absolute;
+  top: 407px;
+  left: 89px;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  color: var(--salem);
+  display: inline-block;
+  width: 79px;
+  height: 14px;
+}
+.calorie-tracker-statistics-k-child9 {
+  position: absolute;
+  top: 468px;
+  left: 89px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  width: 79px;
+  height: 18px;
+}
+.cal3,
+.div22,
+.period {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.cal3 {
+  top: 452px;
+  left: 89px;
+  font-size: var(--font-size-2xs);
+  color: var(--ijo-army);
+  width: 79px;
+  height: 14px;
+}
+.div22,
+.period {
+  left: calc(50% - 616px);
+  width: 206px;
+  height: 23px;
+}
+.div22 {
+  top: 689px;
+  color: var(--ijo-darker);
+}
+.period {
+  top: 662px;
+}
+.vector-icon64 {
+  position: relative;
+  width: 598px;
+  height: 1px;
+}
+.vector-icon65 {
+  width: 1px;
+  height: 6px;
+}
+.div23,
+.vector-icon65 {
+  position: relative;
+}
+.frame2,
+.frame3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 8px;
+  height: 29.52px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-5xs);
+}
+.frame3 {
+  left: 32.47px;
+  width: 6px;
+}
+.frame10,
+.frame11,
+.frame12,
+.frame13,
+.frame14,
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21,
+.frame4,
+.frame5,
+.frame6,
+.frame7,
+.frame8,
+.frame9 {
+  position: absolute;
+  top: 0;
+  left: 62.95px;
+  width: 8px;
+  height: 29.52px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-5xs);
+}
+.frame10,
+.frame11,
+.frame12,
+.frame13,
+.frame14,
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21,
+.frame5,
+.frame6,
+.frame7,
+.frame8,
+.frame9 {
+  left: 94.42px;
+}
+.frame10,
+.frame11,
+.frame12,
+.frame13,
+.frame14,
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21,
+.frame6,
+.frame7,
+.frame8,
+.frame9 {
+  left: 125.89px;
+}
+.frame10,
+.frame11,
+.frame12,
+.frame13,
+.frame14,
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21,
+.frame7,
+.frame8,
+.frame9 {
+  left: 157.37px;
+}
+.frame10,
+.frame11,
+.frame12,
+.frame13,
+.frame14,
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21,
+.frame8,
+.frame9 {
+  left: 188.84px;
+}
+.frame10,
+.frame11,
+.frame12,
+.frame13,
+.frame14,
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21,
+.frame9 {
+  left: 220.82px;
+  width: 7px;
+}
+.frame10,
+.frame11,
+.frame12,
+.frame13,
+.frame14,
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21 {
+  left: 251.79px;
+  width: 8px;
+}
+.frame11,
+.frame12,
+.frame13,
+.frame14,
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21 {
+  left: 283.26px;
+}
+.frame12,
+.frame13,
+.frame14,
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21 {
+  left: 311.74px;
+  width: 14px;
+  align-items: center;
+  justify-content: center;
+}
+.frame13,
+.frame14,
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21 {
+  left: 344.21px;
+  width: 12px;
+}
+.frame14,
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21 {
+  left: 375.18px;
+  width: 13px;
+}
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21 {
+  left: 406.16px;
+  width: 14px;
+}
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21 {
+  left: 437.63px;
+}
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21 {
+  left: 469.61px;
+  width: 13px;
+}
+.frame18,
+.frame19,
+.frame20,
+.frame21 {
+  left: 500.58px;
+  width: 14px;
+}
+.frame19,
+.frame20,
+.frame21 {
+  left: 532.55px;
+  width: 13px;
+}
+.frame20,
+.frame21 {
+  left: 564.03px;
+}
+.frame21 {
+  left: 592px;
+  width: 14px;
+}
+.frame1 {
+  position: relative;
+  width: 606px;
+  height: 29.52px;
+}
+.frame {
+  position: absolute;
+  top: 165px;
+  left: 61px;
+  width: 606px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.vector-icon85 {
+  position: relative;
+  width: 6px;
+  height: 1px;
+}
+.frame24,
+.frame25,
+.frame26,
+.frame27,
+.frame28 {
+  position: absolute;
+  top: 155.8px;
+  left: 23px;
+  width: 19px;
+  height: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.frame25,
+.frame26,
+.frame27,
+.frame28 {
+  top: 115.8px;
+  left: 9px;
+  width: 33px;
+  justify-content: flex-end;
+}
+.frame26,
+.frame27,
+.frame28 {
+  top: 75.8px;
+  left: 3px;
+  width: 39px;
+}
+.frame27,
+.frame28 {
+  top: 35.8px;
+  left: 1px;
+  width: 41px;
+}
+.frame28 {
+  top: 0;
+  left: 0;
+  width: 42px;
+}
+.frame23,
+.vector-icon90 {
+  position: relative;
+  width: 42px;
+  height: 170.8px;
+}
+.vector-icon90 {
+  width: 1px;
+  height: 160px;
+}
+.frame22 {
+  position: absolute;
+  top: 1.46px;
+  left: 23px;
+  height: 170.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: right;
+}
+.chart,
+.group-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.group-icon {
+  height: 80.5%;
+  width: 89.67%;
+  top: 2.25%;
+  right: 0.67%;
+  bottom: 17.25%;
+  left: 9.66%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.chart {
+  top: 761px;
+  left: 78px;
+  width: 668px;
+  height: 200px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+}
+.most-favourite {
+  position: absolute;
+  top: 343px;
+  left: calc(50% + 83px);
+  font-size: var(--font-size-41xl);
+  display: inline-block;
+  color: var(--coklat);
+  text-align: right;
+  width: 291px;
+  height: 161px;
+}
+.frame-child34 {
+  position: absolute;
+  top: 106px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--krem);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+  width: 248px;
+  height: 248px;
+  mix-blend-mode: darken;
+}
+.div48 {
+  position: absolute;
+  top: 210px;
+  left: 119px;
+  font-size: var(--font-size-xl);
+}
+.you-havent-made {
+  position: absolute;
+  top: 269px;
+  left: 15px;
+  display: inline-block;
+  width: 217px;
+}
+.frame-child35 {
+  position: absolute;
+  top: 249.5px;
+  left: 23.5px;
+  border-top: 1px solid var(--ijo-darker);
+  box-sizing: border-box;
+  width: 200px;
+  height: 1px;
+}
+.image-3-icon38 {
+  position: absolute;
+  top: 0;
+  left: 31.5px;
+  width: 186px;
+  height: 186px;
+  object-fit: cover;
+}
+.order-now {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 80px;
+  height: 20px;
+  flex-shrink: 0;
+}
+.order-now-wrapper {
+  position: absolute;
+  top: 319px;
+  left: 57px;
+  border-radius: var(--br-mini);
+  background-color: var(--ijo-army);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  width: 134px;
+  height: 26px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 26px;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: center;
+  color: var(--white);
+}
+.rectangle-parent11 {
+  position: absolute;
+  top: 187px;
+  left: 1124px;
+  width: 248px;
+  height: 354px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+}
+.vector-icon91 {
+  position: absolute;
+  height: 1.56%;
+  width: 1.11%;
+  top: 67.58%;
+  right: 76.94%;
+  bottom: 30.86%;
+  left: 21.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.calorie-tracker-statistics-k-child10,
+.tanggal-child {
+  position: absolute;
+  top: 741px;
+  left: 1273px;
+  border-radius: var(--br-11xl);
+  background-color: var(--krem);
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  width: 83px;
+  height: 27px;
+}
+.tanggal-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+}
+.div49 {
+  top: 23.81%;
+  left: 46.27%;
+  letter-spacing: -0.28px;
+  text-transform: uppercase;
+}
+.div49,
+.div50,
+.tanggal {
+  position: absolute;
+}
+.tanggal {
+  top: 0;
+  left: 0;
+  width: 67px;
+  height: 42px;
+}
+.div50 {
+  top: 23.81%;
+  left: 41.79%;
+  letter-spacing: -0.28px;
+  text-transform: uppercase;
+}
+.tanggal1,
+.tanggal2 {
+  position: absolute;
+  top: 104px;
+  left: 1px;
+  width: 67px;
+  height: 42px;
+}
+.tanggal2 {
+  top: 52px;
+  left: 0;
+}
+.div52 {
+  position: absolute;
+  top: 23.81%;
+  left: 40.3%;
+  letter-spacing: -0.28px;
+  text-transform: uppercase;
+}
+.tanggal3,
+.tanggal4 {
+  position: absolute;
+  top: 156px;
+  left: 1px;
+  width: 67px;
+  height: 42px;
+}
+.tanggal4 {
+  top: 208px;
+}
+.tanggal5,
+.tanggal6,
+.tanggal7,
+.tanggal8,
+.tanggal9 {
+  position: absolute;
+  top: 0;
+  left: 81px;
+  width: 67px;
+  height: 42px;
+}
+.tanggal6,
+.tanggal7,
+.tanggal8,
+.tanggal9 {
+  top: 104px;
+  left: 82px;
+}
+.tanggal7,
+.tanggal8,
+.tanggal9 {
+  top: 52px;
+  left: 81px;
+}
+.tanggal8,
+.tanggal9 {
+  top: 156px;
+  left: 82px;
+}
+.tanggal9 {
+  top: 208px;
+}
+.div59 {
+  position: absolute;
+  top: 23.81%;
+  left: 44.78%;
+  letter-spacing: -0.28px;
+  text-transform: uppercase;
+}
+.tanggal10,
+.tanggal11,
+.tanggal12 {
+  position: absolute;
+  top: 0;
+  left: 162px;
+  width: 67px;
+  height: 42px;
+}
+.tanggal11,
+.tanggal12 {
+  top: 104px;
+  left: 163px;
+}
+.tanggal12 {
+  top: 52px;
+  left: 162px;
+}
+.tanggal13,
+.tanggal14,
+.tanggal15,
+.tanggal16 {
+  position: absolute;
+  top: 156px;
+  left: 163px;
+  width: 67px;
+  height: 42px;
+}
+.tanggal14,
+.tanggal15,
+.tanggal16 {
+  top: 208px;
+}
+.tanggal15,
+.tanggal16 {
+  top: 0;
+  left: 243px;
+}
+.tanggal16 {
+  top: 104px;
+  left: 244px;
+}
+.div66 {
+  position: absolute;
+  top: 23.81%;
+  left: 43.28%;
+  letter-spacing: -0.28px;
+  text-transform: uppercase;
+}
+.tanggal17,
+.tanggal18,
+.tanggal19 {
+  position: absolute;
+  top: 52px;
+  left: 243px;
+  width: 67px;
+  height: 42px;
+}
+.tanggal18,
+.tanggal19 {
+  top: 156px;
+  left: 244px;
+}
+.tanggal19 {
+  top: 0;
+  left: 324px;
+}
+.tanggal20,
+.tanggal21,
+.tanggal22,
+.tanggal23 {
+  position: absolute;
+  top: 104px;
+  left: 325px;
+  width: 67px;
+  height: 42px;
+}
+.tanggal21,
+.tanggal22,
+.tanggal23 {
+  top: 52px;
+  left: 324px;
+}
+.tanggal22,
+.tanggal23 {
+  top: 156px;
+  left: 325px;
+}
+.tanggal23 {
+  top: 0;
+  left: 405px;
+}
+.tanggal24,
+.tanggal25,
+.tanggal26,
+.tanggal27 {
+  position: absolute;
+  top: 104px;
+  left: 406px;
+  width: 67px;
+  height: 42px;
+}
+.tanggal25,
+.tanggal26,
+.tanggal27 {
+  top: 52px;
+  left: 405px;
+}
+.tanggal26,
+.tanggal27 {
+  top: 156px;
+  left: 406px;
+}
+.tanggal27 {
+  top: 0;
+  left: 486px;
+}
+.tanggal-parent,
+.tanggal28,
+.tanggal29,
+.tanggal30 {
+  position: absolute;
+  top: 104px;
+  left: 487px;
+  width: 67px;
+  height: 42px;
+}
+.tanggal-parent,
+.tanggal29,
+.tanggal30 {
+  top: 52px;
+  left: 486px;
+}
+.tanggal-parent,
+.tanggal30 {
+  top: 156px;
+  left: 487px;
+}
+.tanggal-parent {
+  top: 288px;
+  left: 188px;
+  width: 554px;
+  height: 250px;
+  text-align: center;
+  font-size: var(--font-size-2xs);
+}
+.calorie-tracker-statistics-k {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--black);
+  font-family: var(--font-inter);
+}

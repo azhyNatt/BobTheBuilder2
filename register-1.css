@@ -1,0 +1,362 @@
+.register-1-child {
+  position: absolute;
+  top: 234px;
+  left: 736px;
+  border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+  background-color: var(--coklat);
+  width: 521px;
+  height: 161px;
+  mix-blend-mode: normal;
+}
+.register-1-inner,
+.register-1-item {
+  position: absolute;
+  left: 215px;
+  mix-blend-mode: normal;
+}
+.register-1-item {
+  text-decoration: none;
+  top: 234px;
+  border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+  background-color: var(--krem);
+  width: 521px;
+  height: 161px;
+  cursor: pointer;
+}
+.register-1-inner {
+  top: 325px;
+  border-radius: var(--br-11xl);
+  background-color: var(--coklat);
+  width: 1042px;
+  height: 583px;
+}
+.home9 {
+  position: absolute;
+  top: 42px;
+  left: 261px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jejugothic);
+  color: var(--ijo-army);
+  display: none;
+}
+.vector-icon140 {
+  position: absolute;
+  height: 86.72%;
+  width: 84.38%;
+  top: 6.64%;
+  right: 6.25%;
+  bottom: 6.64%;
+  left: 9.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.game-iconsfork-knife-spoon13 {
+  text-decoration: none;
+  position: absolute;
+  height: 100%;
+  width: 38.79%;
+  top: 0;
+  right: 61.21%;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.eatfit26,
+.eatfit27 {
+  text-decoration: none;
+  position: absolute;
+  color: inherit;
+}
+.eatfit27 {
+  height: 60.94%;
+  width: 54.55%;
+  top: 18.75%;
+  left: 45.45%;
+  font-weight: 700;
+  display: inline-block;
+  cursor: pointer;
+}
+.eatfit26 {
+  height: 100%;
+  width: 12.64%;
+  top: 0;
+  right: 87.36%;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-11xl);
+}
+.navbar-child19 {
+  position: absolute;
+  height: 14.07%;
+  width: 0.77%;
+  top: 42.19%;
+  right: 85.75%;
+  bottom: 43.74%;
+  left: 13.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child81,
+.restaurant21 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame-child81 {
+  height: 37.52%;
+  width: 6.54%;
+  top: 29.17%;
+  right: 0;
+  bottom: 33.31%;
+  left: 93.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.restaurant-parent11 {
+  text-decoration: none;
+  position: absolute;
+  top: 20px;
+  left: 526px;
+  width: 153px;
+  height: 24px;
+  cursor: pointer;
+  color: inherit;
+}
+.frame-child82 {
+  position: absolute;
+  height: 37.52%;
+  width: 4.95%;
+  top: 29.17%;
+  right: 0;
+  bottom: 33.31%;
+  left: 95.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.calorie-tracker-parent11,
+.vector-icon141 {
+  position: absolute;
+  top: 20px;
+  left: 716px;
+  width: 202px;
+  height: 24px;
+  cursor: pointer;
+}
+.vector-icon141 {
+  height: 54.69%;
+  width: 2.68%;
+  top: 23.44%;
+  right: 0;
+  bottom: 21.88%;
+  left: 97.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.navbar-child20 {
+  border: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: var(--color-sandybrown-200);
+  position: absolute;
+  height: 56.25%;
+  width: 20.38%;
+  top: 21.88%;
+  right: 6.51%;
+  bottom: 21.88%;
+  left: 73.1%;
+  border-radius: var(--br-11xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.login1,
+.navbar13,
+.register2 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.navbar13 {
+  top: 24px;
+  left: 67px;
+  width: 1305px;
+  height: 64px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+}
+.login1,
+.register2 {
+  top: 261px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--ijo-darker);
+  text-align: center;
+}
+.login1 {
+  left: 259px;
+  cursor: pointer;
+}
+.register2 {
+  left: 781px;
+}
+.terms-conditions {
+  font-weight: 500;
+}
+.agree-with-terms-container {
+  position: absolute;
+  height: 1.56%;
+  width: 12.43%;
+  top: 73.34%;
+  left: 38.54%;
+  font-size: var(--font-size-xs);
+  color: var(--black);
+  display: inline-block;
+}
+.vector-icon142,
+.vector-icon143,
+.vector-icon144,
+.vector-icon145 {
+  position: absolute;
+  height: 0.88%;
+  width: 0.63%;
+  top: 38.48%;
+  right: 52.92%;
+  bottom: 60.64%;
+  left: 46.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon143,
+.vector-icon144,
+.vector-icon145 {
+  height: 0.78%;
+  top: 50.39%;
+  right: 56.94%;
+  bottom: 48.83%;
+  left: 42.43%;
+}
+.vector-icon144,
+.vector-icon145 {
+  height: 0.88%;
+  top: 62.11%;
+  right: 53.19%;
+  bottom: 37.01%;
+  left: 46.18%;
+}
+.vector-icon145 {
+  height: 0.49%;
+  width: 0.35%;
+  top: 73.14%;
+  right: 48.68%;
+  bottom: 26.37%;
+  left: 50.97%;
+}
+.group-child18 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--ijo-army);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.vector-icon146 {
+  position: absolute;
+  height: 50%;
+  width: 8.33%;
+  top: 25%;
+  right: 45.7%;
+  bottom: 25%;
+  left: 45.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent20 {
+  text-decoration: none;
+  position: absolute;
+  height: 4.69%;
+  width: 25.83%;
+  top: 77.25%;
+  right: 37.22%;
+  bottom: 18.07%;
+  left: 36.94%;
+  cursor: pointer;
+}
+.username1 {
+  position: absolute;
+  height: 29.47%;
+  width: 36.95%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.username-child {
+  border: 0;
+  background-color: var(--white);
+  position: absolute;
+  height: 50.53%;
+  width: 100%;
+  top: 49.47%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.email,
+.password,
+.username {
+  position: absolute;
+  top: 394px;
+  left: 532px;
+  width: 387px;
+  height: 95px;
+  mix-blend-mode: normal;
+}
+.email,
+.password {
+  top: 513px;
+}
+.password {
+  top: 632px;
+}
+.checklist-child16 {
+  cursor: pointer;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+}
+.checklist18 {
+  position: absolute;
+  top: 751px;
+  left: 532px;
+  width: 16px;
+  height: 16px;
+}
+.register-1 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}

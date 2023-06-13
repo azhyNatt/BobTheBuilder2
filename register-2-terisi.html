@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./register-2-terisi.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=JejuGothic:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="register-2-terisi">
+      <div class="register-2-terisi-child"></div>
+      <div class="register-2-terisi-item" id="rectangle1"></div>
+      <div class="register-2-terisi-inner"></div>
+      <div class="home19">HOME</div>
+      <div class="navbar24">
+        <a class="eatfit48" href="./home-page.html">
+          <img
+            class="game-iconsfork-knife-spoon24"
+            alt=""
+            src="./public/gameiconsforkknifespoon.svg"
+          />
+
+          <b class="eatfit49" id="eatFitText">EatFit</b>
+        </a>
+        <img class="navbar-child38" alt="" src="./public/polygon-8.svg" />
+
+        <a
+          class="restaurant-parent22"
+          href="./restaurant-page-restaurants.html"
+          id="frameLink"
+        >
+          <div class="restaurant40">RESTAURANT</div>
+          <img class="frame-child145" alt="" src="./public/polygon-8.svg" />
+        </a>
+        <div class="calorie-tracker-parent22" id="frameContainer">
+          <div class="restaurant40">CALORIE TRACKER</div>
+          <img class="frame-child146" alt="" src="./public/polygon-8.svg" />
+        </div>
+        <img
+          class="vector-icon213"
+          alt=""
+          src="./public/vector.svg"
+          id="vectorIcon"
+        />
+
+        <input
+          class="navbar-child39"
+          type="text"
+          placeholder="SEARCH"
+          id="SEARCH"
+        />
+      </div>
+      <div class="login7" id="loginText">Login</div>
+      <div class="register4">Register</div>
+      <div class="group-parent4">
+        <div class="place-of-birth-group">
+          <div class="place-of-birth3">Place of birth</div>
+          <input class="group-child35" type="text" required id="pob" />
+
+          <div class="jakarta1">Jakarta</div>
+        </div>
+        <div class="date-of-birth-group">
+          <div class="date-of-birth3">Date of birth</div>
+          <input
+            class="group-child36"
+            type="date"
+            placeholder="dd/mm/yyyy"
+            required
+            id="dob"
+          />
+
+          <div class="div155">2003-04-12</div>
+          <img class="vector-icon214" alt="" src="./public/vector1.svg" />
+        </div>
+        <div class="height-container">
+          <div class="height2">Height</div>
+          <div class="cm3">cm</div>
+          <input class="group-child37" type="number" required id="height" />
+
+          <div class="div156">170</div>
+          <div class="kg3">kg</div>
+          <div class="weight2">Weight</div>
+          <input class="group-child38" type="number" required id="weight" />
+
+          <div class="div157">50</div>
+        </div>
+        <div class="gender2">
+          <div class="gender3">Gender</div>
+          <img class="vector-icon215" alt="" src="./public/vector210.svg" />
+
+          <div class="rectangle-parent27">
+            <div class="group-child39"></div>
+            <div class="female1">Female</div>
+          </div>
+          <div class="rectangle-parent28">
+            <div class="group-child39"></div>
+            <div class="male1">Male</div>
+          </div>
+        </div>
+      </div>
+      <div class="group-parent5">
+        <div class="rectangle-parent29">
+          <input class="group-child41" type="text" id="self_desc" />
+
+          <div class="self-description1">Self description</div>
+        </div>
+        <div class="instagram-link-group">
+          <div class="instagram-link1">Instagram link</div>
+          <input class="group-child42" type="text" id="insta_link" />
+
+          <div class="instagramcombobthebuilder21">
+            instagram.com/bobthebuilder2
+          </div>
+        </div>
+        <div class="phone-number-group">
+          <div class="phone-number2">Phone number</div>
+          <input class="group-child42" type="number" id="phone_num" />
+
+          <div class="div158">+6281234567890</div>
+        </div>
+        <div class="i-hereby-confirm-that-the-info-group">
+          <div class="i-hereby-confirm1">
+            I hereby confirm that the information provided above is true and
+            accurate
+          </div>
+          <div class="checklist19">
+            <input
+              class="checklist-child17"
+              type="checkbox"
+              defaultchecked="{true}"
+            />
+          </div>
+        </div>
+        <div class="hi-everyone-my2">
+          Hi everyone, my name is Bob The Builder 2. My father name is Bob The
+          Builder 1 iand I love seafood hehe &lt;3
+        </div>
+      </div>
+      <a class="rectangle-parent30" href="./login.html" id="groupLink">
+        <div class="group-child44"></div>
+        <div class="register5">Register</div>
+      </a>
+      <img class="vector-icon216" alt="" src="./public/vector310.svg" />
+
+      <img class="vector-icon217" alt="" src="./public/vector210.svg" />
+
+      <img class="vector-icon218" alt="" src="./public/vector210.svg" />
+
+      <img class="vector-icon219" alt="" src="./public/vector210.svg" />
+
+      <img class="vector-icon220" alt="" src="./public/vector210.svg" />
+
+      <img class="vector-icon221" alt="" src="./public/vector210.svg" />
+    </div>
+
+    <script>
+      var rectangle1 = document.getElementById("rectangle1");
+      if (rectangle1) {
+        rectangle1.addEventListener("click", function (e) {
+          window.location.href = "./login.html";
+        });
+      }
+      
+      var eatFitText = document.getElementById("eatFitText");
+      if (eatFitText) {
+        eatFitText.addEventListener("click", function (e) {
+          window.location.href = "./home-page.html";
+        });
+      }
+      
+      var frameLink = document.getElementById("frameLink");
+      if (frameLink) {
+        frameLink.addEventListener("click", function (e) {
+          window.location.href = "./restaurant-page-restaurants.html";
+        });
+      }
+      
+      var frameContainer = document.getElementById("frameContainer");
+      if (frameContainer) {
+        frameContainer.addEventListener("click", function (e) {
+          window.location.href = "./calorie-tracker-journey.html";
+        });
+      }
+      
+      var vectorIcon = document.getElementById("vectorIcon");
+      if (vectorIcon) {
+        vectorIcon.addEventListener("click", function (e) {
+          window.location.href = "./login.html";
+        });
+      }
+      
+      var loginText = document.getElementById("loginText");
+      if (loginText) {
+        loginText.addEventListener("click", function (e) {
+          window.location.href = "./login.html";
+        });
+      }
+      
+      var groupLink = document.getElementById("groupLink");
+      if (groupLink) {
+        groupLink.addEventListener("click", function (e) {
+          window.location.href = "./login-sudah-diisi.html";
+        });
+      }
+      </script>
+  </body>
+</html>

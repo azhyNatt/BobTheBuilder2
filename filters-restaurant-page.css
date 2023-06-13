@@ -1,0 +1,611 @@
+.solarfilter-broken-icon {
+  position: absolute;
+  top: 500px;
+  left: 708px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.welcome {
+  position: absolute;
+  top: 228px;
+  left: 124px;
+  font-size: var(--font-size-15xl);
+  font-weight: 600;
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+  width: 576px;
+  height: 41px;
+}
+.discover-your-favorite {
+  margin: 0;
+}
+.discover-your-favorite-container {
+  position: absolute;
+  top: 306px;
+  left: 124px;
+  font-size: var(--font-size-39xl);
+  font-weight: 800;
+  color: var(--ijo-darker);
+  text-align: left;
+  display: inline-block;
+  width: 576px;
+  height: 162px;
+}
+.game-iconsfork-knife-spoon11 {
+  position: absolute;
+  height: 105.86%;
+  width: 38.79%;
+  top: 0;
+  right: 61.21%;
+  bottom: -5.86%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.eatfit23 {
+  position: absolute;
+  height: 60.94%;
+  width: 54.55%;
+  top: 18.75%;
+  left: 45.45%;
+  display: inline-block;
+  cursor: pointer;
+}
+.eatfit22 {
+  position: absolute;
+  height: 100%;
+  width: 12.64%;
+  top: 0;
+  right: 87.36%;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-11xl);
+}
+.navbar-child16 {
+  position: absolute;
+  height: 14.07%;
+  width: 0.77%;
+  top: 42.19%;
+  right: 85.75%;
+  bottom: 43.74%;
+  left: 13.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.restaurant11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.frame-child72 {
+  position: absolute;
+  height: 37.52%;
+  width: 6.54%;
+  top: 29.17%;
+  right: 0;
+  bottom: 33.31%;
+  left: 93.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.restaurant-parent9 {
+  position: absolute;
+  top: 20px;
+  left: 526px;
+  width: 153px;
+  height: 24px;
+  cursor: pointer;
+}
+.calorie-tracker11,
+.frame-child73 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame-child73 {
+  height: 37.52%;
+  width: 4.95%;
+  top: 29.17%;
+  right: 0;
+  bottom: 33.31%;
+  left: 95.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.calorie-tracker-parent9,
+.vector-icon118 {
+  position: absolute;
+  top: 20px;
+  left: 716px;
+  width: 202px;
+  height: 24px;
+  cursor: pointer;
+}
+.vector-icon118 {
+  height: 54.69%;
+  width: 2.68%;
+  top: 23.44%;
+  right: 0;
+  bottom: 21.88%;
+  left: 97.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search3 {
+  position: absolute;
+  top: 16.67%;
+  left: 6.39%;
+}
+.material-symbolssearch-rounde-icon5 {
+  position: absolute;
+  height: 66.67%;
+  width: 9.02%;
+  top: 16.67%;
+  right: 4.51%;
+  bottom: 16.67%;
+  left: 86.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search-parent1 {
+  position: absolute;
+  height: 56.25%;
+  width: 20.38%;
+  top: 21.88%;
+  right: 6.51%;
+  bottom: 21.88%;
+  left: 73.1%;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-sandybrown-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  color: var(--white);
+}
+.navbar11 {
+  position: absolute;
+  top: 24px;
+  left: 67px;
+  width: 1305px;
+  height: 64px;
+  mix-blend-mode: normal;
+  text-align: left;
+  color: var(--color-gray-200);
+}
+.image-2-icon {
+  position: absolute;
+  top: 152px;
+  left: 774px;
+  width: 542px;
+  height: 560px;
+  object-fit: cover;
+}
+.filters-restaurant-page-child {
+  position: absolute;
+  top: 505px;
+  left: 124px;
+  border-radius: var(--br-mini);
+  background-color: var(--ijo-army);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 240px;
+  height: 87px;
+}
+.filter3 {
+  position: absolute;
+  top: 529px;
+  left: 179px;
+  font-size: var(--font-size-13xl);
+  color: var(--white);
+}
+.vector-icon119 {
+  position: absolute;
+  top: 538px;
+  left: 274px;
+  width: 35px;
+  height: 22px;
+}
+.restaurant12,
+.serpong {
+  position: absolute;
+  top: 67.04%;
+  left: 40.73%;
+}
+.restaurant12 {
+  top: 81.11%;
+  left: 36.69%;
+}
+.vector-icon120,
+.vector-icon121 {
+  position: absolute;
+  height: 9.63%;
+  width: 8.47%;
+  top: 66.67%;
+  right: 70.97%;
+  bottom: 23.7%;
+  left: 20.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon121 {
+  height: 9.26%;
+  width: 10.08%;
+  top: 80.74%;
+  right: 69.35%;
+  bottom: 10%;
+}
+.restaurant-kimukatsu-child {
+  position: absolute;
+  height: 0.37%;
+  width: 80.65%;
+  top: 62.04%;
+  right: 9.88%;
+  bottom: 37.59%;
+  left: 9.48%;
+  border-top: 1px solid var(--color-darkgreen-200);
+  box-sizing: border-box;
+}
+.download-removebg-preview-1-icon {
+  position: absolute;
+  height: 55.19%;
+  width: 87.1%;
+  top: 6.67%;
+  right: 6.45%;
+  bottom: 38.15%;
+  left: 6.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.restaurant-kimukatsu {
+  position: absolute;
+  top: 792px;
+  left: 124px;
+  border-radius: var(--br-3xs);
+  background-color: var(--krem);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+  width: 248px;
+  height: 270px;
+  mix-blend-mode: normal;
+}
+.logo-1-icon3 {
+  position: absolute;
+  height: 61.85%;
+  width: 51.61%;
+  top: 0;
+  right: 24.19%;
+  bottom: 38.15%;
+  left: 24.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.restauran-beard-papa {
+  position: absolute;
+  top: 792px;
+  left: 439px;
+  border-radius: var(--br-3xs);
+  background-color: var(--krem);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+  width: 248px;
+  height: 270px;
+  mix-blend-mode: normal;
+  cursor: pointer;
+}
+.unnamed-removebg-preview-1-icon {
+  position: absolute;
+  height: 61.85%;
+  width: 77.02%;
+  top: 0.37%;
+  right: 11.69%;
+  bottom: 37.78%;
+  left: 11.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.restaurant-marugame {
+  position: absolute;
+  top: 792px;
+  left: 754px;
+  border-radius: var(--br-3xs);
+  background-color: var(--krem);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+  width: 248px;
+  height: 270px;
+  mix-blend-mode: normal;
+}
+.pepper-lunch-logo-1-icon {
+  position: absolute;
+  height: 41.48%;
+  width: 53.63%;
+  top: 10.74%;
+  right: 23.39%;
+  bottom: 47.78%;
+  left: 22.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.restaurant-pepper {
+  position: absolute;
+  top: 793px;
+  left: 1069px;
+  border-radius: var(--br-3xs);
+  background-color: var(--krem);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+  width: 248px;
+  height: 270px;
+  mix-blend-mode: normal;
+}
+.restaurant-kimukatsu1 {
+  left: 124px;
+}
+.restauran-beard-papa1,
+.restaurant-kimukatsu1,
+.restaurant-marugame1,
+.restaurant-pepper1 {
+  position: absolute;
+  top: 1144px;
+  border-radius: var(--br-3xs);
+  background-color: var(--krem);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+  width: 248px;
+  height: 270px;
+  mix-blend-mode: normal;
+}
+.restauran-beard-papa1 {
+  left: 439px;
+  cursor: pointer;
+}
+.restaurant-marugame1,
+.restaurant-pepper1 {
+  left: 754px;
+}
+.restaurant-pepper1 {
+  top: 1145px;
+  left: 1069px;
+}
+.filters-restaurant-page-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.24);
+  width: 1440px;
+  height: 1583px;
+}
+.group-child14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+  background-color: var(--krem);
+  width: 402px;
+  height: 547px;
+}
+.allergen-filter,
+.cuisine-type,
+.price {
+  position: absolute;
+  top: 115px;
+  left: 23px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 235px;
+  height: 36px;
+}
+.allergen-filter,
+.price {
+  top: 230px;
+}
+.price {
+  top: 345px;
+}
+.dessert,
+.italian {
+  position: absolute;
+  top: 0;
+  left: 21px;
+  font-weight: 500;
+}
+.dessert {
+  top: 31px;
+}
+.chinese,
+.fast-food,
+.korean,
+.seafood {
+  position: absolute;
+  top: 0;
+  left: 159px;
+  font-weight: 500;
+}
+.chinese,
+.fast-food,
+.seafood {
+  top: 31px;
+}
+.fast-food,
+.seafood {
+  top: 0;
+  left: 275px;
+}
+.seafood {
+  top: 31px;
+}
+.checklist-item {
+  cursor: pointer;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+}
+.checklist1 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 16px;
+  height: 16px;
+}
+.checklist2,
+.checklist3,
+.checklist4,
+.checklist5,
+.checklist6 {
+  position: absolute;
+  top: 2px;
+  left: 138px;
+  width: 16px;
+  height: 16px;
+}
+.checklist3,
+.checklist4,
+.checklist5,
+.checklist6 {
+  left: 254px;
+}
+.checklist4,
+.checklist5,
+.checklist6 {
+  top: 31px;
+  left: 0;
+}
+.checklist5,
+.checklist6 {
+  left: 138px;
+}
+.checklist6 {
+  left: 254px;
+}
+.frame-child74,
+.italian-parent {
+  position: absolute;
+  top: 161px;
+  left: 31px;
+  width: 350px;
+  height: 50px;
+}
+.frame-child74 {
+  cursor: pointer;
+  height: 32%;
+  width: 4.91%;
+  top: 4%;
+  right: 95.09%;
+  bottom: 64%;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+}
+.peanuts-group,
+.peanuts-parent {
+  position: absolute;
+  top: 276px;
+  left: 31px;
+  width: 326px;
+  height: 50px;
+}
+.peanuts-group {
+  top: 391px;
+}
+.popular-restaurants {
+  position: absolute;
+  top: 81px;
+  left: 52px;
+  font-weight: 500;
+}
+.submit1 {
+  position: relative;
+  display: inline-block;
+  width: 84px;
+  height: 25px;
+  flex-shrink: 0;
+}
+.cancel,
+.submit {
+  text-decoration: none;
+  position: absolute;
+  top: 470px;
+  left: 22px;
+  border-radius: var(--br-3xs);
+  background-color: var(--ijo-army);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 164px;
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--white);
+}
+.cancel {
+  left: 216px;
+}
+.mdifilter-outline-icon {
+  position: absolute;
+  top: 26px;
+  left: 142px;
+  width: 39px;
+  height: 39px;
+  overflow: hidden;
+}
+.filter4 {
+  position: absolute;
+  top: 22px;
+  left: 23px;
+  font-size: 35px;
+  display: inline-block;
+  width: 136px;
+  height: 48px;
+}
+.checklist17 {
+  position: absolute;
+  top: 83px;
+  left: 31px;
+  width: 16px;
+  height: 16px;
+}
+.filters-restaurant-page-inner,
+.rectangle-parent19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 402px;
+  height: 547px;
+}
+.filters-restaurant-page-inner {
+  top: 152px;
+  left: 1038px;
+  text-align: left;
+  font-size: var(--font-size-base);
+}
+.filters-restaurant-page {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--black);
+  font-family: var(--font-inter);
+}
